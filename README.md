@@ -5,8 +5,5 @@ Backend Developer | IA & Machine Learning con Python
 
 👋 Sobre mí
 
-Soy un desarrollador autodidacta con formación en Ingeniería en Sistemas Computacionales y experiencia práctica en Python, desarrollo backend, bases de datos y análisis de datos.
-
-Actualmente estoy profundizando en FastAPI, Machine Learning, visualización de datos interactiva con Streamlit, y buenas prácticas con Git y GitHub.
-
-Me apasiona construir proyectos que integren programación, datos y automatización.
+Soy un programador en constante crecimiento, enfocada en desarrollar proyectos que integran backend, análisis de datos y automatización mediante Python.
+Actualmente me encuentro fortaleciendo mis habilidades en desarrollo backend, machine learning, visualización interactiva, así como en buenas prácticas con Git y GitHub para colaborar en proyectos reales.
