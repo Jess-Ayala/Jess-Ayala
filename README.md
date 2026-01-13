@@ -1,7 +1,7 @@
 # ✨ Hola, Mi nombre es Jessica Ayala
 
 Soy una programadora en constante crecimiento, enfocada en desarrollar proyectos que integran backend, análisis de datos y automatización mediante Python.
-Actualmente me encuentro fortaleciendo mis habilidades en desarrollo backend y machine learning.
+Actualmente me encuentro fortaleciendo mis habilidades en machine learning.
 
 🧰 Habilidades
 
